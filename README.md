@@ -6,3 +6,14 @@
 
 
 
+## 2. SimpleSockt
+
+简单的socket编程：
+
+[TCPClient.py](https://github.com/niu0217/Python/blob/main/Dev/SimpleSocket/TCPClient.py)
+
+[TCPServer.py](https://github.com/niu0217/Python/blob/main/Dev/SimpleSocket/TCPServer.py)
+
+[UDPClient.py](https://github.com/niu0217/Python/blob/main/Dev/SimpleSocket/UDPClient.py)
+
+[UDPServer.py](https://github.com/niu0217/Python/blob/main/Dev/SimpleSocket/UDPServer.py)
