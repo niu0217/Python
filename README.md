@@ -17,3 +17,20 @@
 [UDPClient.py](https://github.com/niu0217/Python/blob/main/Dev/SimpleSocket/UDPClient.py)
 
 [UDPServer.py](https://github.com/niu0217/Python/blob/main/Dev/SimpleSocket/UDPServer.py)
+
+
+
+## 3. 《计算机网络-自顶向下》第8版编程作业
+
+### [3.1 Web服务器](https://media.pearsoncmg.com/ph/esm/ecs_kurose_compnetwork_8/cw/)
+
+[web_server.py](https://github.com/niu0217/Python/blob/main/Dev/SocketHomework/WebServer/web_server.py)
+
+[web_client.py](https://github.com/niu0217/Python/blob/main/Dev/SocketHomework/WebServer/web_client.py)
+
+[response.html](https://github.com/niu0217/Python/blob/main/Dev/SocketHomework/WebServer/response.html)
+
+[HelloWorld.html](https://github.com/niu0217/Python/blob/main/Dev/SocketHomework/WebServer/HelloWorld.html)
+
+### 3.2 UDP_Ping程序
+
