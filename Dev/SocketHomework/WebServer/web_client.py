@@ -16,8 +16,10 @@ Head = ("GET /HelloWorld.html HTTP/1.1\r\n"
 clientSocket.send(Head.encode('utf-8'))
 
 # 打印收到的消息
-for i in range(0, 4):
+while True:
     data = clientSocket.recv(1024)
+    if len(data) == 0:
+        break
     print(data.decode())
     with open('response.html', 'ab+') as f:
         f.write(data)
