@@ -39,3 +39,7 @@
 ### 3.3 邮件客户
 
 [smtp_client.py](https://github.com/niu0217/Python/blob/main/Dev/SocketHomework/SMTPClient/smtp_client.py)
+
+### 3.4 Web代理服务器
+
+[web_proxy_server.py](https://github.com/niu0217/Python/blob/main/Dev/SocketHomework/WebProxyServer/web_proxy_server.py)
