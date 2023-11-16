@@ -43,3 +43,7 @@
 ### 3.4 Web代理服务器
 
 [web_proxy_server.py](https://github.com/niu0217/Python/blob/main/Dev/SocketHomework/WebProxyServer/web_proxy_server.py)
+
+### 3.5 自己实现ping
+
+[ping.py](https://github.com/niu0217/Python/blob/main/Dev/SocketHomework/UDPPing/ping.py)
